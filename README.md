@@ -1,0 +1,2 @@
+# PopipaLyricsGenerator
+AI Nakamura Wataru
